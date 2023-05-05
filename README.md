@@ -19,6 +19,7 @@ In the case of NGINX, the Ingress controller is deployed in a pod along with the
 # Installing the Ingress Controller In AWS 
 
 ## 1. Clone Kubernetes Nginx Ingress Manifests into server where you have kubectl
+![image](https://user-images.githubusercontent.com/59635638/236544303-2c959ef1-2570-4f18-a85f-5273669537d7.png)
 
 ```
 $ git clone https://github.com/MithunTechnologiesDevOps/kubernetes-ingress.git
